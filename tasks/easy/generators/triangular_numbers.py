@@ -35,4 +35,3 @@ print(int(next(tn_gen)))
 print(int(next(tn_gen)))
 print(int(next(tn_gen)))
 print(int(next(tn_gen)))
-

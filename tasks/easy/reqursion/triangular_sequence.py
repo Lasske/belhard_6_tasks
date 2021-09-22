@@ -35,4 +35,3 @@ def triangular_sequence(n, any_str='', any_num=1):
 
 
 print(triangular_sequence(3))
-

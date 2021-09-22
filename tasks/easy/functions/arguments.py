@@ -34,5 +34,3 @@ def dict_from_args(*args, **kwargs):
 
 
 print(dict_from_args(*(1, 2), **{"x": "xx", "y": "yyyyy"}))
-
-

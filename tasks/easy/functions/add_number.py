@@ -19,7 +19,3 @@ def add_numb(n):
     def inner(m):
         return n + m
     return inner
-
-
-
-

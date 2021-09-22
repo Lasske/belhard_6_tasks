@@ -24,4 +24,3 @@ even_gen = get_even_number()
 print(next(even_gen))
 print(next(even_gen))
 print(next(even_gen))
-
