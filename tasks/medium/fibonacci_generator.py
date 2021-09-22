@@ -33,7 +33,10 @@ def fibonacci(num_count):
         raise ValueError('Введите значение больше 1')
 
 
-a = fibonacci(4)
+a = fibonacci(8)
+print(next(a))
+print(next(a))
+print(next(a))
 print(next(a))
 print(next(a))
 print(next(a))
