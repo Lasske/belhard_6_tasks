@@ -4,3 +4,13 @@
 
 Можно пользоваться только функциями, операторами и условиями.
 """
+
+
+def sum_of_numbers(n):
+    i = 0
+    for j in str(n):
+        i += int(j)
+    return i
+
+
+print(sum_of_numbers(33333))
